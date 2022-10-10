@@ -1,0 +1,14 @@
+-Added the rest of the unit icons and animations
+-You can now spawn troopers from team aligned bases
+	-In a future update, this should be given delay and cost
+-Slightly altered the rim brightness of the fort's tractor beam
+-Added 3 points on the test map
+-Removed Genesis Base
+-Moved version indicator to the top of the screen
+-Fixed a bug which messed up the outlines of selected units and forts
+-Added unit congregations, which are currently being used to position units spawned from forts
+-Critical hit effects now rely on the shuriken particle system for WebGL compatibility
+
+KNOWN BUGS:
+-Some troopers will stutter in their movement, on rare occasions.
+-Other particle effects, such as explosions, fire, and command indicators should be moved to Shuriken
