@@ -1,0 +1,14 @@
+Made the capture UI use a radial meter instead of a vertical one.
+Bug Fix: UI is no longer messed up by different resolutions 
+Units now have a build time and a queue, in other words, they no longer spawn instantly.
+Added Archers
+Added Laser Arrow particle effect (Currently shuriken only)
+Minor tweaks to trooper AI regarding temporary and long term positioning.
+Changed movement types from single assignment to dynamic congregations
+	What this means is that units will always try to fill lower rings, like with ones just spawned from a fort
+Added some rocks, will be adding more later.
+Added the model for gold ores. Which are currently not functional.
+Added a new terrained test map.
+Switched the move command particle effect over to the shuriken particle system.
+The camera now collides with terrain
+Bound deselect to space, along with middle click.
