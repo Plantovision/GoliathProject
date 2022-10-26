@@ -1,11 +1,13 @@
-"added the chopping block."
-Fixed a bug that would cause green sparks when move particles were supposed to despawn.
-Fixed a bug that stopped middle click from deselecting units and forts.
-Replaced gold with silver in order to prevent confusion between ores and yellow units.
-Fixed an issue with units floating slightly off the ground
-Added miners
-Changed purple team to blue team.
-Silver ores are now (partially) functional.
-   - Miners can mine from them and bring the silver to deposits, but there is no system for giving silver to teams or designating which team owns which deposit.
-Added deposits, which are currently non-functional
-Spawn times have been reduced to near zero, for the sake of testing.
+Slightly altered the color of blue units.
+Added trees, which miners can now harvest wood from, they will regrow after being cut down.
+Slightly altered the terrain shader.
+  -Doesn't look great right now, but new maps should be able to better use these changes.
+Miners now have a particle effect and a sound for mining.
+Slightly increased the volume of hitsounds.
+Minor alterations to miner ai.
+Deposits are now functional.
+Moved the version indicator.
+Added a deposit on the blue side of the test map.
+Added a bar on the top, which displays wood, silver and population.
+Teams now have a count of wood and silver, which currently don't have a purpose.
+Added a count of team populations, with a cap of 70 units.
