@@ -1,13 +1,8 @@
-Slightly altered the color of blue units.
-Added trees, which miners can now harvest wood from, they will regrow after being cut down.
-Slightly altered the terrain shader.
-  -Doesn't look great right now, but new maps should be able to better use these changes.
-Miners now have a particle effect and a sound for mining.
-Slightly increased the volume of hitsounds.
-Minor alterations to miner ai.
-Deposits are now functional.
-Moved the version indicator.
-Added a deposit on the blue side of the test map.
-Added a bar on the top, which displays wood, silver and population.
-Teams now have a count of wood and silver, which currently don't have a purpose.
-Added a count of team populations, with a cap of 70 units.
+The population indicator now flashes red when your team loses a unit.
+Added Irons
+Minor changes to Archer and Trooper AI regarding getting movement commands while in combat.
+Added the graphics menu
+Added the debug menu
+Moved "switch teams" to the debug menu.
+Added "graphics quality" in the graphics settings.
+Changed default window size for the game.
