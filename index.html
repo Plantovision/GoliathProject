@@ -7,7 +7,7 @@
   </head>
   <body style="text-align: center; padding: 0; border: 0; margin: 0;">
     <canvas id="unity-canvas" width=1300 height=1200 style="width: 1300px; height: 1200px; background: #231F20"></canvas>
-    <script src="Build/Tidepool 7 Html.loader.js"></script>
+    <script src="Build/Tidepool 8 Html.loader.js"></script>
     <script>
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         // Mobile device style: fill the whole browser client area with the game canvas:
@@ -25,13 +25,13 @@
       }
 
       createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "Build/Tidepool 7 Html.data.unityweb",
-        frameworkUrl: "Build/Tidepool 7 Html.framework.js.unityweb",
-        codeUrl: "Build/Tidepool 7 Html.wasm.unityweb",
+        dataUrl: "Build/Tidepool 8 Html.data.unityweb",
+        frameworkUrl: "Build/Tidepool 8 Html.framework.js.unityweb",
+        codeUrl: "Build/Tidepool 8 Html.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Plantovision",
         productName: "Goliath Project",
-        productVersion: "Tidepool 6",
+        productVersion: "Tidepool 8",
         // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
         // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
       });

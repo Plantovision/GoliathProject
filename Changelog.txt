@@ -1,8 +1,6 @@
-The population indicator now flashes red when your team loses a unit.
-Added Irons
-Minor changes to Archer and Trooper AI regarding getting movement commands while in combat.
-Added the graphics menu
-Added the debug menu
-Moved "switch teams" to the debug menu.
-Added "graphics quality" in the graphics settings.
-Changed default window size for the game.
+-Added griffins
+-Added the "flying" attribute for units
+-Brought back spawn timers
+-Fixed a bug that caused spawn timers to show the incorrect population value
+-Remembered that I am supposed to update the version watermark
+-Removed the version watermark
