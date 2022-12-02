@@ -1,6 +1,15 @@
--Added griffins
--Added the "flying" attribute for units
--Brought back spawn timers
--Fixed a bug that caused spawn timers to show the incorrect population value
--Remembered that I am supposed to update the version watermark
--Removed the version watermark
+-Units now cost silver and wood to spawn
+-Unit costs are now displayed when the button to spawn them is hovered over
+-Fixed a bug that caused spawn buttons to appear hovered when they should not be
+-Minor alterations to the splash screen
+-Sligtly increased the resolution of low quality mode
+-Added simple unit shaders
+-Added the unit shader option to the graphics settings
+-2 Yellow Miners and 3 Yellow Troopers now spawn at Point A
+-Removed a sapling from the test map
+-Added the title screen
+-Added the exit button to the settings menu.
+-Added a low particle mode
+
+-Planning to add settings that disable post processing and have more resource efficient unit selection indicators
+-Planning to add an actual level select screen, instead of just sending the player to the test map.
