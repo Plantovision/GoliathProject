@@ -1,29 +1,25 @@
-Added objectives and a win / lose screen
-Added Arrowhead Peninsula map. (The test map is now accesible through the levels after it.)
-You can now advance levels by comlpeting the previous level.
-Completed objectives are now saved to playerprefs.
-You now gain wisdom points when completing an objective.
-Added the abilities menu to the level select screen.
-Wisdom points can be spent on abilities. Which currently are non-functional for most units.
-Fixed a bug that caused the stats on the win/lose screen to persist through resets.
-Fixed a bug that caused Archers to not fire when they have line of sight.
-The tutorial brings up the win screen after completion.
-Edited the water shader.
-Archers now have sound effects for firing.
-Irons have sound effects for sheild activity and sheildbreaking.
-Warlocks have sound effects for their firespew and summon fireball attacks.
-All units now have footstep sounds. (Except warlocks who hover off the ground.)
-Forts now have sound effects for attempting to build a unit.
-Warlock fireballs now deal passive damage.
-Griffins now have sound effects. They will likely be changed in the future.
-The pause menu now has sound effects.
-Warlocks will nolonger receive regen from other warlocks, as to prevent infinite wizard duels.
-Pause menu no longer stays closed if the user pauses during it.
-Fixed a bug that prevented the tutorial from starting.
-Slightly altered the colored glowing material for the yellow team, to make it more yellow than orange.
-Archers can now miss their target.
-The doppler effect no longer effects sounds in the game.
-Added Fast Forward, which can be accessed by holding "E".
-Warlocks now wait a second before retracting fireballs.
-The level select screen will ask the player if they want to play the tutorial if they have no save data.
-The rough outline for engineers has been added, but they are mostly nonfunctional.
+Added Goliaths, huge tanks with ballistas that fire explosive bolts.
+Fixed a bug that occasionally caused Shooting Stars to not hit their targets occasionally.
+Altered the sound effects for Griffins.
+Added sound effects for Kingslayer and Shooting Star.
+Nerfed warlock heals from 50% returns to only 29%.
+Fully implemented Engineers, who build Gizmos and buff friendly units with critboosts.
+Fixed a bug that caused yellow team troopers to not see as far as other units.
+Greatly shortedned unit build times.
+Fixed ain issue with teammates being able to hit eachother.
+Warlocks will not heal from hitting gizmos.
+Added abilities for Irons, Griffins, Warlocks, Engineers, and Goliaths.
+Lowered the cost of Griffins.
+Fixed a bug that allowed Warlock flames to move while paused.
+Altered the look of pine trees.
+Added palm trees.
+Slightly altered the water shader \( ᐛ )/
+Altered the title screen.
+Added the maps for the Isle of War, Port Pond, and Jagged Valley.
+Added AI for Isle of War.
+Fixed a bug that caused the selector sphere to sometimes disappear behind water.
+Added AI for Jagged Valley.
+Added letters to forts for identification.
+Added a partially complete map for Magic Mangrove.
+Added music.
+Esc is no longer used to pause the game, as it comflicts with fullscreen. (P can still be used.)
