@@ -1,25 +1,9 @@
-Added Goliaths, huge tanks with ballistas that fire explosive bolts.
-Fixed a bug that occasionally caused Shooting Stars to not hit their targets occasionally.
-Altered the sound effects for Griffins.
-Added sound effects for Kingslayer and Shooting Star.
-Nerfed warlock heals from 50% returns to only 29%.
-Fully implemented Engineers, who build Gizmos and buff friendly units with critboosts.
-Fixed a bug that caused yellow team troopers to not see as far as other units.
-Greatly shortedned unit build times.
-Fixed ain issue with teammates being able to hit eachother.
-Warlocks will not heal from hitting gizmos.
-Added abilities for Irons, Griffins, Warlocks, Engineers, and Goliaths.
-Lowered the cost of Griffins.
-Fixed a bug that allowed Warlock flames to move while paused.
-Altered the look of pine trees.
-Added palm trees.
-Slightly altered the water shader \( ᐛ )/
-Altered the title screen.
-Added the maps for the Isle of War, Port Pond, and Jagged Valley.
-Added AI for Isle of War.
-Fixed a bug that caused the selector sphere to sometimes disappear behind water.
-Added AI for Jagged Valley.
-Added letters to forts for identification.
-Added a partially complete map for Magic Mangrove.
-Added music.
-Esc is no longer used to pause the game, as it comflicts with fullscreen. (P can still be used.)
+Added sound effects for Engineers and Goliaths.
+Added sounde effects for Warlock abilities.
+Added illustrations to the ability unlock menu.
+Buffed the Miner's "Resourceful" upgrade.
+Fixed Blue Kingslayers causing errors.
+Fixed kingslayers not counting in the unit population.
+Added a slide about fast-forwarding to the tutorial.
+Nerfed Warlock health from 80 to 60
+Finished Magic Mangrove (Which has not been fully balanced tested yet.)
