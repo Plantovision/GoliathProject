@@ -1,9 +1,19 @@
-Added sound effects for Engineers and Goliaths.
-Added sounde effects for Warlock abilities.
-Added illustrations to the ability unlock menu.
-Buffed the Miner's "Resourceful" upgrade.
-Fixed Blue Kingslayers causing errors.
-Fixed kingslayers not counting in the unit population.
-Added a slide about fast-forwarding to the tutorial.
-Nerfed Warlock health from 80 to 60
-Finished Magic Mangrove (Which has not been fully balanced tested yet.)
+IT LIVES!
+Rebalanced Magic Mangrove.
+All levels (except the tutorial) now grant 3 wisdom instead of one.
+Added the opening cutscene.
+Added Riveted River, Cannon Canyon, The Dropoff and Kingdom's End.
+Added the opening cutscene.
+Changed the name on the titlescreen from "Goliath Project" (The working title) to "Evergreen" (The final title).
+Added the secret.
+Altered shadow rendering distance for normal and high quality rendering settings.
+Rebalanced Towers Defensive.
+Increased the price of Goliaths.
+Goliaths are now immune to stun.
+Added the Conductor.
+Warlocks now gain healing and damage from the number of burning enemies in their range.
+Added the closing cutscene.
+Added logs on the back of Efficiency Miners.
+Fixed a bug with Griffins.
+Fixed a crash relating to too many fire particles generating.
+You can now select single units precisely by quickly clicking on them.
