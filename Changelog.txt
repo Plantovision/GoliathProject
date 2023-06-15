@@ -1,19 +1,3 @@
-IT LIVES!
-Rebalanced Magic Mangrove.
-All levels (except the tutorial) now grant 3 wisdom instead of one.
-Added the opening cutscene.
-Added Riveted River, Cannon Canyon, The Dropoff and Kingdom's End.
-Added the opening cutscene.
-Changed the name on the titlescreen from "Goliath Project" (The working title) to "Evergreen" (The final title).
-Added the secret.
-Altered shadow rendering distance for normal and high quality rendering settings.
-Rebalanced Towers Defensive.
-Increased the price of Goliaths.
-Goliaths are now immune to stun.
-Added the Conductor.
-Warlocks now gain healing and damage from the number of burning enemies in their range.
-Added the closing cutscene.
-Added logs on the back of Efficiency Miners.
-Fixed a bug with Griffins.
-Fixed a crash relating to too many fire particles generating.
-You can now select single units precisely by quickly clicking on them.
+Fixed a bug where melee units could clip into other units.
+Fixed a bug that caused the player to clip out of the map during lag spikes.
+Lowered the default graphics quality.
